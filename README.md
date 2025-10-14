@@ -15,9 +15,9 @@ Pro celý projekt si vytvoříme novou složku (např. local-on-premise-lab), ve
 
   ### Instalační scripty (Bash)
 	   Instalace klíčových komponent pro projekt (Mosquitto, Python knihovny).
-  ### plc_sim.py (Python)
+  ### [plc_sim.py (Python)](plc_sim.py)
 	   Simulace PLC. Script bude generovat virtuální fiktivní OT data a vysílat je pomocí protokolu Modbus/TCP.
-  ### edge_gateway.py (Python)
+  ### [edge_gateway.py (Python)](edge_gateway.py)
 	   Script pro načítání dat přes Modbus z PCL a přeposílání na Mosquitto Broker protokolem MQTT.
   ### Mosquitto (Bash)
 	   Spouštění, konfigurace a sledování dat MQTT Brokeru.
