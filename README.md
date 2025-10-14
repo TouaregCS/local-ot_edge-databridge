@@ -13,7 +13,7 @@ Plně funkční Lokální OT/Edge Kanál s využitím Python scriptů a knihoven
 
 Pro celý projekt si vytvoříme novou složku (např. local-on-premise-lab), ve které uložíme scripty a budeme zpouštět terminály. 
 
-  ### Instalační scripty (Bash)
+  ### [Instalační scripty (Bash)](Install_scripts.md)
 	   Instalace klíčových komponent pro projekt (Mosquitto, Python knihovny).
   ### [plc_sim.py (Python)](plc_sim.py)
 	   Simulace PLC. Script bude generovat virtuální fiktivní OT data a vysílat je pomocí protokolu Modbus/TCP.
