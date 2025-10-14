@@ -1,4 +1,9 @@
 # Lokální OT Datový Most (On-Premise Lab)
+![GitHub License](https://img.shields.io/github/license/TouaregCS/local-ot_edge-databridge)  ![GitHub repo size](https://img.shields.io/github/repo-size/TouaregCS/local-ot_edge-databridge)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+
+
 
 Cíl: Vytvoření izolovaného virtualizovaného řetězce pro simulaci průmyslového provozu, sběr dat, monitoring a detekci v lokálním prostředí, bez závislosti na cloudu. OS Linux Mint
 
