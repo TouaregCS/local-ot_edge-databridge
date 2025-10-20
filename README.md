@@ -1,5 +1,5 @@
 # Lokální OT Datový Most (On-Premise Lab)
-![GitHub License](https://img.shields.io/github/license/TouaregCS/local-ot_edge-databridge)  ![GitHub repo size](https://img.shields.io/github/repo-size/TouaregCS/local-ot_edge-databridge)
+![GitHub License](https://img.shields.io/github/license/TouaregCS/local-ot_edge-databridge)  ![GitHub repo size](https://img.shields.io/github/repo-size/TouaregCS/local-ot_edge-databridge)  [![Bandit](https://github.com/TouaregCS/local-ot_edge-databridge/actions/workflows/bandit.yml/badge.svg)](https://github.com/TouaregCS/local-ot_edge-databridge/actions/workflows/bandit.yml)
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 
