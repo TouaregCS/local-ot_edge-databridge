@@ -32,3 +32,8 @@ V druhém terminálu spustíme Edge Gateway (edge_gateway.py). Načítá data z 
 Ve třetím terminálovém okně spustíme simulaci sledování dat z Mosquitto (Bash).
 
 Pokud vše funguje jak má, měli bychom pozorovat dynamicky aktualizované hodnoty ve všech třech terminálech. Zprovozněný lokální hybridní kanál tak může začít sloužit k cvičení scénařů incidentů.
+
+- **Terminál 1** vypisuje interní aktualizaci dat.
+- **Terminál 2** vypisuje ```MQTT OUT```.
+- **Terminál 3** přijímá **JSON** zprávy s teplotou
+		
