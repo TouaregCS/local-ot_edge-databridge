@@ -22,6 +22,11 @@ sudo systemctl status mosquitto
 
 ~~~
 
+Vytvoříme virtuální prostředí
+~~~bash
+python3 -m venv venv
+~~~
+
 Pokračujeme aktivací virtuálního prostředí (venv)
 ~~~bash
 source venv/bin/activate
