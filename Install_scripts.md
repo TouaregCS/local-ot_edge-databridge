@@ -21,3 +21,9 @@ sudo systemctl start mosquitto
 sudo systemctl status mosquitto
 
 ~~~
+
+Pokračujeme aktivací virtuálního prostředí (venv)
+~~~bash
+source venv/bin/activate
+~~~
+
