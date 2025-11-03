@@ -19,7 +19,7 @@ Pro celý projekt si vytvoříme novou složku (např. local-on-premise-lab), ve
 	   Simulace PLC. Script bude generovat virtuální fiktivní OT data a vysílat je pomocí protokolu Modbus/TCP.
   ### [edge_gateway.py (Python)](edge_gateway.py)
 	   Script pro načítání dat přes Modbus z PCL a přeposílání na Mosquitto Broker protokolem MQTT.
-  ### Mosquitto (Bash)
+  ### [Mosquitto (Bash)](mosquitto.md)
 	   Spouštění, konfigurace a sledování dat MQTT Brokeru.
 
 Script, který má simulovat PLC (plc_sim.py) spustíme v jednom terminálu.
