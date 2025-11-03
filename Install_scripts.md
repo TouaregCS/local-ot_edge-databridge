@@ -27,3 +27,14 @@ Pokračujeme aktivací virtuálního prostředí (venv)
 source venv/bin/activate
 ~~~
 
+Ověříme instalaci balíčku modbus
+~~~bash
+pip list | grep modbus
+~~~
+
+Správně by se měly zobrazit knihovny ```modbus-tk``` a ```pyModbusTCP```. 
+Pokud ne, musíme balíčky doinstalovat.
+~~~bash
+pip install modbus-tk
+pip install pyModbusTCP paho-mqtt
+~~~
